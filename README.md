@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aneurismike.
 - 👀 Full Stack Web Developer.
-- 🌱 I Work with Reack/Next and Node/PostgreSQL.
+- 🌱 I Work with React and Node.
 - 💞️ I love Computer Programming, Design, and Concept Illustration (hobby).
 - 📫 Reach me at aneurismike@gmail.com.
 
