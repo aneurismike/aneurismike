@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @aneurismike.
-- 👀 Full Stack Web Developer.
-- 🌱 I Work with React and Node.
-- 💞️ I love Computer Programming, Design, and Concept Illustration (hobby).
+- 👀 Concept Illustrator, Software Developer, and Designer.
 - 📫 Reach me at aneurismike@gmail.com.
 
 <!---
